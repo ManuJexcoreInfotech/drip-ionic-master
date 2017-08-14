@@ -98,7 +98,7 @@
     </plugin>
     <plugin name="cordova-plugin-weibo" spec="^1.6.0" />
     <plugin name="cordova-plugin-whitelist" spec="^1.3.2" />
-    <plugin name="cordova-umeng-analytics" spec="git+https://github.com/pipitang/cordova-umeng-analytics.git" />
+   
     <plugin name="jpush-phonegap-plugin" spec="^3.1.8">
         <variable name="APP_KEY" value="46becc0d96be0a46d601867f" />
     </plugin>
