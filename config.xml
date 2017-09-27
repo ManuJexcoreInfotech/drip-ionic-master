@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="4000" id="me.growu.drip" version="0.4.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>HappenStance</name>
+<widget android-versionCode="4000" id="" version="0.4.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Opensteps</name>
     <description>
-	HappenStance
+	Opensteps Opensteps Opensteps Opensteps Opensteps OpenstepsOpenstepsOpensteps
     </description>
-    <author email="drip@growu.me" href="http://www.growu.me/">
-		HappenStance
+    <author email="test@gmail.com" href="http://www.google.com/">
+		Opensteps
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -18,10 +18,7 @@
     <preference name="BackupWebStorage" value="none" />
     <preference name="SplashScreen" value="screen" />
     <preference name="SplashScreenDelay" value="1000" />
-    <preference name="QQAppId" value="1106248902" />
-    <preference name="WeiboAppId" value="1114202144" />
-    <preference name="wechatappid" value="wx1bdc17e4439c5ffc" />
-    <preference name="REDIRECTURI" value="http://drip.growu.me" />
+   
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
