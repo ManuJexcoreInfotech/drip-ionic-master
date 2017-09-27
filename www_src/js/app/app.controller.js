@@ -23,7 +23,7 @@
             }
         }
 
-        // 每分钟获取
+        
         var timer =  $interval(getNewMessages,60000);
 
         timer.then(success, error, notify);

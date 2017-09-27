@@ -3,6 +3,7 @@
     "version": "0.3.0",
     "description": "drip-app by ionic framwork",
     "dependencies": {
+        "cordova-admob": "^4.1.16",
         "cordova-android": "^6.2.3",
         "cordova-ios": "^4.4.0",
         "cordova-plugin-apprate": "^1.3.0",
@@ -89,7 +90,8 @@
             "cordova-plugin-whitelist": {},
             "cordova-plugin-image-picker": {
                 "PHOTO_LIBRARY_USAGE_DESCRIPTION": " "
-            }
+            },
+            "cordova-admob": {}
         },
         "platforms": [
             "android",
